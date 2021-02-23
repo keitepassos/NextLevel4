@@ -1,0 +1,11 @@
+{
+  "name": "NextLevel4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/keitepassos/NextLevel4.git",
+  "author": "keite passos <keitepassos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
