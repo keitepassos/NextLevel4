@@ -12,3 +12,7 @@
 
 #http://localhost:3333/users
 
+
+#yarn add typeorm reflect-metadata
+
+#yarn add sqlite3 
